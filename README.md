@@ -1,4 +1,4 @@
-### Olá! Eu sou o Deivid Ferreria 👋
+### Olá! Eu sou o Deivid Ferreira 👋
 
 - 🔭  Dev. Java em progresso
 - 🌱  Estudando Análise e desenvolvimento de Sistemas
