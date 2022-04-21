@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Deivid Ferreria 👋
 
-- 🔭  Dev. Full-stack in Progress
+- 🔭  Dev. Java em progresso
 - 🌱  Estudando Análise e desenvolvimento de Sistemas
-- 📫 Contate-me através do email: deividferreirabili@gmail.com
+- 📫 Contate-me através do email: deividferreriac@gmail.com
 
 <div>
   <a href="https://github.com/Deividferreirac">
@@ -14,7 +14,6 @@
   <img align="center" alt="Deivid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deivid-Ht" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deivid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deivid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 #
 	
