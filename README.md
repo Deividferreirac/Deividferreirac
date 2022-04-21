@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Deivid Ferreira 👋
 
 - 🔭  Dev. Java em progresso
-- 🌱  Estudando Análise e desenvolvimento de Sistemas
+- 👨🏻‍🎓  Estudando Análise e desenvolvimento de Sistemas
 - 📫 Contate-me através do email: deividferreriac@gmail.com
 
 <div>
